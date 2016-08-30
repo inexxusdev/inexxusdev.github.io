@@ -34590,6 +34590,8 @@
 		$urlRouterProvider.otherwise('/order/all');
 	}
 
+	function test() {}
+
 	/**
 	 * Module name
 	 * @type {String}
